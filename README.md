@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://clasificadordedesechos-6ejwhynecq-uc.a.run.app/media/5323fd8027d08b8022d3a42f9222c993f8e823f782b79713daa23468.png" width="500"/>
+  <img src="https://drive.google.com/file/d/15mRFqDO9-oSql1uuTNO56G_l2GMotpy4/view" width="500"/>
 </div>
 
 # Modelo de Clasificación de Desechos ♻
