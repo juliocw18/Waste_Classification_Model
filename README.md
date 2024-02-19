@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="TFM_Banner_White.png" width="500"/>
+  <img src="GitHub_Banner_TFM_Modelo_de_Clasificación_de_Desechos.png"/>
 </div>
 
 # Modelo de Clasificación de Desechos ♻
