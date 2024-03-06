@@ -6,6 +6,8 @@
 
 Hola 👋, en este repositorio les presento mi trabajo final de máster (TFM). Se trata de un modelo de Red Neuronal Convolucional (CNN) para clasificar imágenes de desechos en las categorías "orgánico" y "reciclable".
 
+Puedes ingresar en las carpetas respectivas para visualizar o descargar los códigos tanto del modelo como de la aplicación web.
+
 ## Dataset
 El dataset que utilicé para desarrollar el modelo se denomina "Waste Classification data". Este dataset consta de más de 25mil imágenes de diversos objetos que han sido etiquetados por su autor, y se encuentra publicado bajo la licencia Creative Commons Attribution Share-Alike 4.0 ("CC BY-SA 4.0") ([Waste Classification data](https://www.kaggle.com/datasets/techsash/waste-classification-data)).
 
