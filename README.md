@@ -23,5 +23,5 @@ Para crear un modelo capaz de procesar imágenes, recurrí a las redes neuronale
 Luego de 30 épocas de entrenamiento con un batch size de 32, al generalizar sobre el conjunto de test, el Modelo Optimizado obtuvo en promedio 0.25 en error y 90.73% en accuracy.
 
 <div align="center">
-  <img src="Model Code\Model Code\History.png"/>
+  <img src="Model Code\History.png"/>
 </div>
