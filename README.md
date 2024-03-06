@@ -32,4 +32,4 @@ Para que el Modelo Optimizado, realmente cumpla su objetivo, desarrollé una apl
 
 Esta aplicación le brinda al usuario la opción de cargar la imagen de un desecho, a partir de una imagen en el dispositivo o tomando una fotografía. La aplicación predice en tiempo real si el desecho pertenece a la categoría “orgánico” o “reciclable”.
 
-Esta aplicación puede ser accedida a través de cualquier dispositivo, ya sea una computadora, un teléfono o una tablet, a través de este enlace: [Clasificador de Desechos](https://clasificadordedesechos-6ejwhynecq-uc.a.run.app/)
+Esta aplicación puede ser accedida a través de cualquier dispositivo, ya sea una computadora, un teléfono o una tablet, mediante este enlace: [Clasificador de Desechos](https://clasificadordedesechos-6ejwhynecq-uc.a.run.app/)
