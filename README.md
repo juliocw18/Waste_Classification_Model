@@ -25,7 +25,7 @@ Luego de 30 épocas de entrenamiento con un batch size de 32, al generalizar sob
   <img src="Model Code\History.png"/>
 </div>
 
-# Productivización
+## Productivización
 Para que el Modelo Optimizado, realmente cumpla su objetivo, desarrollé una aplicación utilizando el framework llamado Streamlit y la desplegué en Google Cloud Platform.
 
 Esta aplicación le brinda al usuario la opción de cargar la imagen de un desecho, a partir de una imagen en el dispositivo o tomando una fotografía. La aplicación predice en tiempo real si el desecho pertenece a la categoría “orgánico” o “reciclable”.
