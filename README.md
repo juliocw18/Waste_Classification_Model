@@ -21,7 +21,7 @@ Para crear un modelo capaz de procesar imágenes, recurrí a las redes neuronale
   - Binary Cross-Entropy como función de pérdida para medir las desviaciones del modelo
   - Accuracy como métrica para evaluar el rendimiento del modelo
 
-Luego de 30 épocas de entrenamiento con un batch size de 32, al generalizar sobre el conjunto de test, el Modelo Optimizado obtuvo en promedio 0.25 en error y 90.73% en accuracy.
+Luego de 30 épocas de entrenamiento con un batch size de 32, al generalizar sobre el conjunto de test, el Modelo Optimizado obtuvo en promedio 0.25 en error/loss (Binary Cross-entropy), 90.73% en Accuracy y 90% AUC.
 
 <div align="center">
   <img src="Model Code\History.png"/>
