@@ -38,10 +38,12 @@ Debajo detallo los resultados de los 3 modelos obtenidos con el conjunto de test
 | 2. Modelo_Optimizado | 0.251224  | 0.907282 |
 | 3. Modelo_TransferLearning | 0.230865 | 0.907680 |
 
+
 <div align="center">
   <img src="Model Code\CM.png", width="900"/>
   <img src="Model Code\AUC.png", width="900"/>
 </div>
+
 
 ## Productivización
 Para que el Modelo Optimizado, realmente cumpla su objetivo, desarrollé una aplicación utilizando el framework llamado Streamlit y la desplegué en Google Cloud Platform.
