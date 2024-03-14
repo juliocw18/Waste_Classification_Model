@@ -31,6 +31,7 @@ Adicionalmente, experimenté realizando transfer learning con el modelo preentre
 
 Debajo detallo los resultados de los 3 modelos obtenidos con el conjunto de test, las matrices de confusión y las curvas AUC.
 
+<br>
 
 | Model Name | Test Error/Loss | Test Accuracy |
 | --- | --- | --- |
@@ -38,6 +39,7 @@ Debajo detallo los resultados de los 3 modelos obtenidos con el conjunto de test
 | 2. Modelo_Optimizado | 0.251224  | 0.907282 |
 | 3. Modelo_TransferLearning | 0.230865 | 0.907680 |
 
+<br>
 
 <div align="center">
   <img src="Model Code\CM.png", width="900"/>
