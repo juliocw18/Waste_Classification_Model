@@ -24,7 +24,7 @@ Para crear un modelo capaz de procesar imágenes, recurrí a las redes neuronale
 Luego de 30 épocas de entrenamiento con un batch size de 32, al generalizar sobre el conjunto de test, el Modelo Optimizado obtuvo en promedio 0.25 en Error/Loss (Binary Cross-entropy), 90.73% en Accuracy y 90% AUC.
 
 <div align="center">
-  <img src="Model Code\History.png", , height="250"/>
+  <img src="Model Code\History.png", width="750"/>
 </div>
 
 Adicionalmente, experimenté realizando transfer learning con el modelo preentrenado llamado "[Xception](https://keras.io/api/applications/)", para ver la potencia 🦾 que tienen estos modelos y qué tanto podía inferir en el tema.
