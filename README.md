@@ -39,15 +39,15 @@ Debajo detallo los resultados de los 3 modelos obtenidos con el conjunto de test
 | 3. Modelo_TransferLearning | 0.230865 | 0.907680 |
 
 <div align="center">
-  <img src="Model Code\CM.png", height="250"/>
-  <img src="Model Code\AUC.png", height="250"/>
+  <img src="Model Code\CM.png", width="900"/>
+  <img src="Model Code\AUC.png", width="900"/>
 </div>
 
 ## Productivización
 Para que el Modelo Optimizado, realmente cumpla su objetivo, desarrollé una aplicación utilizando el framework llamado Streamlit y la desplegué en Google Cloud Platform.
 
 <div align="center">
-  <img src="App Code\App_Screenshot.png", height="320"/>
+  <img src="App Code\App_Screenshot.png", height="300"/>
 </div>
 
 Esta aplicación le brinda al usuario la opción de cargar la imagen de un desecho, a partir de una imagen en el dispositivo o tomando una fotografía. La aplicación predice en tiempo real si el desecho pertenece a la categoría “orgánico” o “reciclable”.
